@@ -66,4 +66,4 @@ For questions or suggestions, open an issue or make a pull request.
 
 ## Author
 
-**PARTHIBAN C**
+**PARTHIBAN C , SARAVANAKUMAR K , PRATAP R , POOMAGAL E**
