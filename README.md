@@ -42,6 +42,15 @@ Only then will you be able to add, delete, or edit bank accounts.
 - Customers can enter their account number and view account details securely.
 - Deposit and withdrawal functions are also accessible.
 
+## Working Features Screenshots
+
+### Manager Mode - Account Management
+![Manager View](Images/Manager.png)
+
+### Customer Mode - Account Details
+![Customer View](Images/Customer.png)
+
+
 ## Technologies Used
 
 - Java (JDK 8+)
